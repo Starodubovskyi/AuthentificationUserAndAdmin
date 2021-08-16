@@ -64,6 +64,6 @@ class authController{
 
       }
     }
-}
+}//All information
 
 module.exports = new authController()
